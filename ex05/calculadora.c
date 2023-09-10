@@ -1,7 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+#include <locale.h>
 int main(){
+	
+	setlocale(LC_ALL, "Portuguese");
+	
 	int dec, n1, n2, res;
 	
 	printf("Digite 1 para somar\n");
