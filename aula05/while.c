@@ -11,4 +11,6 @@ int main(){
 		printf("teste %d.\n", num);
 		num++;
 	}
+	
+	system("pause");
 }
