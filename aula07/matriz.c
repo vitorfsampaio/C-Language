@@ -17,4 +17,6 @@ int main(){
 		}
 		printf("\n");
 	}
+	
+	system("pause");
 }
