@@ -385,6 +385,7 @@ int main(){
 					break;		
 				}
 			break;
+			//Sair do programa.
 			case 4:
 				printf("Programa finalizado!\n");
 				system("pause");
@@ -395,7 +396,7 @@ int main(){
 				system("pause");
 				system("cls");
 			break;	
-		}	
+		}
 	}
 	return 0;
 }
